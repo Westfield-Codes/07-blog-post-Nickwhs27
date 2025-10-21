@@ -27,5 +27,8 @@ html {
 
 /* NEW CSS HERE */
 body{
- background-color: aqua;
+ background-color: #7A31D6;
+}
+.container {
+  background-color: white;
 }
